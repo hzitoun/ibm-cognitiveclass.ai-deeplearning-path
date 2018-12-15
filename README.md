@@ -1,1 +1,1 @@
-"# ibm-cognitiveclass.ai-deeplearning-path" 
+# ibm-cognitiveclass.ai-deeplearning-path
